@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Abdul Haseeb 
 
-<!--
-**haseebdev0/haseebdev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Software Engineering Student at KIET University, Karachi (2027)
+💻 Full Stack Web Developer
+📍 Karachi, Pakistan
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a software engineering student passionate about building web applications and solving real-world problems through code. I have hands-on experience in full stack web development and am constantly learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** C#, Python, Java, JavaScript, HTML, CSS
+- **Concepts:** OOP, MVC, Data Structures & Algorithms, SOLID & GRASP Principles
+- **Databases:** SQL, Relational Database Design
+- **Tools:** Git, GitHub
+
+## 📌 Projects
+- 🏥 **Smart Health Tracker** — Mobile health monitoring app
+- 🔊 **Noise Pollution Detector** — AI-based audio classification system
+- 🍽️ **Restaurant Management System** — Full stack app with MVC & Database
+- 🔐 **Encryption/Decryption Tool** — Cryptography implementation in Python
+- 👟 **Shoes E-Commerce Website** — Responsive frontend with HTML, CSS, JS
+
+## 📫 Contact
+- 📧 haseebjawed83@gmail.com
+- 📍 Karachi, Pakistan
